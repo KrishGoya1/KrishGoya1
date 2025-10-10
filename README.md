@@ -8,13 +8,6 @@
 
 ---
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://github.com/KrishGoya1/KrishGoya1/assets/000000000/banner.gif" width="90%" alt="Animated Banner"/>
-</p>
-
----
-
 ### 🧠 About Me
 
 💻 I’m a **Software Engineer** passionate about blending **engineering + creativity** —  
@@ -93,26 +86,8 @@ Smart NFC-based attendance suite for 1,200+ users, with offline-first sync and r
 
 ---
 
-### 🧊 Random Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
-
----
-
-### 🐍 Contribution Snake (Live)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KrishGoya1/KrishGoya1/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <h3 align="center">✨ Thanks for visiting! ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=450&lines=Let's+Build+Something+Awesome!+🚀" />
-</p>
-
-<p align="center">
-  <sub>💡 Built with markdown, animation, and caffeine ☕</sub>
 </p>
