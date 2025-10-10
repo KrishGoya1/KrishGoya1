@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up%2C+Krish...;The+Matrix+has+you...;Follow+the+White+Rabbit...;Hello%2C+I'm+Krish+Goyal" />
 </h1>
 
----
-
 ### 🧠 About Me
 
 💻 I’m a **Software Engineer** passionate about blending **engineering + creativity** —  
