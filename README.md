@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Krish+Goyal;Backend+Engineer+%7C+3D+Tech+Enthusiast;Machine+Learning+%7C+Procedural+Generation;Building+cool+stuff+since+2023!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Wake+up%2C+Krish...;The+Matrix+has+you...;Follow+the+White+Rabbit...;Hello%2C+I'm+Krish+Goyal" />
 </h1>
 
 ---
@@ -60,19 +60,6 @@ Smart NFC-based attendance suite for 1,200+ users, with offline-first sync and r
   <a href="https://leetcode.com/u/goyalkrish183"><img src="https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://codeforces.com/profile/goyalkrish"><img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://github.com/KrishGoya1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 📊 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishGoya1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishGoya1&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishGoya1&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
