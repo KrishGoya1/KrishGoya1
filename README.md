@@ -102,8 +102,6 @@ Realistic 3D open-pit mine generator using advanced algorithms.
 
 ![turn](https://tictactoe-worker.goyalkrish183.workers.dev/turn.svg)
 
-![status](https://tictactoe-worker.goyalkrish183.workers.dev/status.svg)
-
 | | | |
 |:---:|:---:|:---:|
 | [![](https://tictactoe-worker.goyalkrish183.workers.dev/tile/0.svg)](https://tictactoe-worker.goyalkrish183.workers.dev/move?tile=0) | [![](https://tictactoe-worker.goyalkrish183.workers.dev/tile/1.svg)](https://tictactoe-worker.goyalkrish183.workers.dev/move?tile=1) | [![](https://tictactoe-worker.goyalkrish183.workers.dev/tile/2.svg)](https://tictactoe-worker.goyalkrish183.workers.dev/move?tile=2) |
@@ -114,7 +112,7 @@ Realistic 3D open-pit mine generator using advanced algorithms.
 
 > 💡 **Tech Stack:** Cloudflare Workers, Durable Objects, SVG Graphics
 > 
-> Game state persists globally - anyone can play! Auto-resets after completion.
+> Game state persists globally - anyone can play!
 
 ---
 
