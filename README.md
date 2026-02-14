@@ -2,6 +2,7 @@
 # 🎮 Tic-Tac-Toe Game
 
 Click on any tile to make a move! This is a live, interactive game.
+**Current Turn:** ![turn](https://tictactoe-worker.goyalkrish183.workers.dev/turn.svg)
 
 | | | |
 |:---:|:---:|:---:|
