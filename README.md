@@ -1,9 +1,7 @@
 
 # 🎮 Tic-Tac-Toe Game
 
-Click on any tile to make a move! This is a live, interactive game running on Cloudflare Workers.
-
-**Current Turn:** ![turn](https://tictactoe-worker.goyalkrish183.workers.dev/turn.gif?v=1)
+Click on any tile to make a move! This is a live, interactive game.
 
 | | | |
 |:---:|:---:|:---:|
