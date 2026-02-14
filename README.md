@@ -94,6 +94,7 @@ Realistic 3D open-pit mine generator using advanced algorithms.
 ---
 
 ## 🎮 Interactive Zone
+<a name="interactive"></a>
 
 ### Play Tic-Tac-Toe!
 *A live, collaborative game powered by Cloudflare Workers & Durable Objects*
