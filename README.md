@@ -2,7 +2,7 @@
 
 Click on any tile to make a move!
 
-**Current Turn:** ![turn](https://tictactoe-worker.goyalkrish183.workers.dev/turn.gif)
+**Current Turn:** ![turn](https://tictactoe-worker.goyalkrish183.workers.dev/turn.svg)
 
 | | | |
 |:---:|:---:|:---:|
