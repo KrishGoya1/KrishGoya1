@@ -8,7 +8,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/goyalkrish183)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/goyalkrish)
 
-📍 Greater Noida, India | 🎓 B.Tech CSE @ Sharda University (CGPA: 8.9/10.0)
+📍 Greater Noida, India | 🎓 B.Tech CSE @ Sharda University (CGPA: 8.4/10.0)
 
 </div>
 
